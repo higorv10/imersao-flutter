@@ -4,7 +4,7 @@
 
 O TechTaste é um aplicativo Flutter inovador 📱 que visa proporcionar uma experiência gastronômica completa 🍽️, permitindo aos usuários descobrir restaurantes 📍, explorar seus cardápios 📄 e adicionar pratos deliciosos a uma sacola de pedidos 🛒. O aplicativo apresenta uma interface de usuário intuitiva 😍 com funcionalidades como listagem de categorias, visualização de restaurantes bem avaliados ⭐ e uma tela de checkout para gerenciar os itens selecionados.
 
-##🌟 Funcionalidades Principais
+## 🌟 Funcionalidades Principais
 
 * **Categorias Deliciosas:** Explore uma variedade de categorias de comida apetitosas 😋 na tela inicial:
     * 🍕 Petiscos
